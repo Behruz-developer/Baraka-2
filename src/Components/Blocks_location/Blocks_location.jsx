@@ -32,15 +32,12 @@ const Blocks_location = () => {
           <div className="blocks_location_card_text">
             <h2 className="blocks_location_title">Majmua arxitekturasi</h2>
             <p className="blocks_location_text">
-              Sohil turar-joy majmuasi Samarqand shahrida zamonaviy arxitektura va innovatsion dizaynni birlashtirgan loyiha hisoblanadi.</p>
+              Baraka - Sirdaryo viloyatida qurilayotgan zamonaviy arxitektura va innovatsion dizaynni mujassam etgan loyiha hisoblanadi. Arxitektura eng soʻnggi dizayn tamoyillari va yuqori sifatli qurilish materiallari asosida yaratilgan. </p>
             <p className="blocks_location_text">
-              Majmua arxitekturasi zamonaviy dizayn tamoyillariga asoslanib, eng so'nggi qurilish materiallari va texnologiyalaridan foydalangan holda yaratilgan. Har bir bino nafaqat estetik jihatdan jozibali, balki ko'plab funksional talablarga ham javob beradi, bu esa yashovchilarga qulay va farovon hayot taqdim etadi.</p>
+              Har bir bino nafaqat ko'rkam ko'rinishga ega, balki funksionalligi bilan ham ajralib turadi. Bu majmua yashovchilarga qulaylik va farovonlikni ta’minlashga qaratilgan.</p>
           </div>
-
-
           <div className="blocks_location_card_icons">
             <div className="blocks_location_card_icon">
-
               <div className="blocks_location_icon_text" >
                 <div className="blocks_location_svg_box">
                   <svg className="blocks_location_svg_card" width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">

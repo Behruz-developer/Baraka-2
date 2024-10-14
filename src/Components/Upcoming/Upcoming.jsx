@@ -53,7 +53,7 @@ const Upcoming = ({ images }) => {
                           Oilangiz bilan orzudagi hayotga qadam qo‘ying
                         </h3>
                         <p className="slidet_text2">
-                          Sohil — Samarqandda barpo etilayotgan zamonaviy turar-joy majmuasi boʻlib, unda oilangiz bilan xavfsiz va xotirjam hayot kechirish uchun barcha imkoniyatlar mavjud.
+                          Baraka — Sirdaryo viloyatida qurilayotgan zamonaviy turar-joy majmuasi bo‘lib, unda oilangiz uchun qulay va xavfsiz yashash muhiti yaratilgan.
                         </p>
                       </div>
                       <div className="upcoming_icon2_card">

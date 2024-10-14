@@ -35,9 +35,9 @@ const About = () => {
           <div className="about_card_text" data-aos="fade-left">
             <h2 className="about_title">Sohil haqida</h2>
             <p className="about_text">
-              Sohil –  Samarqand shahrida barpo etilayotgan zamonaviy turar-joy majmua bo'lib, shahar infratuzilmasining eng yuqori talablari asosida qurilmoqda. Majmua hududida keng yashil maydonlar va dam olish maskanlari mavjud bo‘lib, yashovchilarga tabiat qo‘ynida, ochiq havoda vaqt o‘tkazish imkonini beradi. </p>
+              Baraka — Sirdaryo viloyatida barpo etilayotgan zamonaviy turar-joy majmuasi. Majmua zamonaviy qulaylik va infratuzilmalarni o‘zida mujassam etgan bo‘lib, yashovchilarga xavfsiz va qulay muhitni taqdim etadi. </p>
             <p className="about_text">
-              Sohil - farovon hayot uchun ideal sharoitlarni taqdim etadi va bu yerda sizning orzularingizdagi hayot boshlanadi. </p>
+              Bu yerda oilangiz bilan xotirjam va farovon hayot kechirish uchun barcha sharoitlar mavjud. Orzularingizdagi turmush tarzini yaratish uchun ideal joy!</p>
           </div>
 
 
