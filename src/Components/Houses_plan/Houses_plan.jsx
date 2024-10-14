@@ -41,7 +41,6 @@ const Houses_plan = () => {
               )}
             </div>
           </div>
-
           {/* Showing corresponding content based on activeNumber */}
           {activeNumber === "Hammasi" && (
             <div className="houses_card_bottom">
@@ -52,7 +51,6 @@ const Houses_plan = () => {
               <img src={houses4} alt="" className="houses_img" />
             </div>
           )}
-
           {activeNumber === "1-xonali" && (
             <div className="houses_card_bottom1">
               <img src={houses1} alt="" className="houses_img" />
@@ -69,8 +67,6 @@ const Houses_plan = () => {
               <img src={houses4} alt="" className="houses_img" />
             </div>
           )}
-
-
         </div>
       </div>
     </div>
