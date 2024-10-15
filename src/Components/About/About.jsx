@@ -33,7 +33,7 @@ const About = () => {
             </div>
           </div>
           <div className="about_card_text" data-aos="fade-left">
-            <h2 className="about_title">Sohil haqida</h2>
+            <h2 className="about_title">Baraka haqida</h2>
             <p className="about_text">
               Baraka — Sirdaryo viloyatida barpo etilayotgan zamonaviy turar-joy majmuasi. Majmua zamonaviy qulaylik va infratuzilmalarni o‘zida mujassam etgan bo‘lib, yashovchilarga xavfsiz va qulay muhitni taqdim etadi. </p>
             <p className="about_text">
