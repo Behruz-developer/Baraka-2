@@ -6,13 +6,16 @@
 .location {
     overflow: hidden;
     margin-bottom: 90px;
+    padding-bottom: 40px;
 
-    @include media (1020px){
+    @include media (1020px) {
         padding-bottom: 40px;
     }
-    @include media (850px){
+
+    @include media (850px) {
         padding-bottom: 20px;
     }
+
     @include media (800px) {
         margin-bottom: 40px;
     }
@@ -20,13 +23,12 @@
     @include media (600px) {
         margin-bottom: 16px;
         padding-bottom: 0px;
-
     }
 
     &_box {
         width: 100%;
         display: grid;
-          grid-template-columns: repeat(2, 48%);
+        grid-template-columns: repeat(2, 48%);
         grid-template-rows: repeat(3, 0.5fr);
         gap: 4%;
 
@@ -125,12 +127,15 @@
         row-gap: 16px;
         grid-column: span 1;
         width: 80%;
+
         @include media(1600px) {
             width: 85%;
         }
+
         @include media (1150px) {
             padding-bottom: 70px;
         }
+
         @include media (850px) {
             grid-row: span 3;
             padding-bottom: 0px;
@@ -145,6 +150,7 @@
             grid-column: span 2;
             // margin-top: 100px;
         }
+
         @include media(550px) {
             order: -1;
             grid-row: span 1;

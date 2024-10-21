@@ -50,7 +50,7 @@ const Upcoming = ({ images }) => {
                           className="slidet_text"
                           key={`navimage${index + 1}`}
                         >
-                          Oilangiz bilan orzudagi hayotga qadam qo‘ying
+                          Oilangiz bilan orzudagi <br /> hayotga qadam qo‘ying
                         </h3>
                         <p className="slidet_text2">
                           Baraka — Sirdaryo viloyatida qurilayotgan zamonaviy turar-joy majmuasi bo‘lib, unda oilangiz uchun qulay va xavfsiz yashash muhiti yaratilgan.
